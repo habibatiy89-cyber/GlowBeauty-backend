@@ -51,3 +51,269 @@ INFO:     127.0.0.1:33718 - "GET /products HTTP/1.1" 307 Temporary Redirect
 INFO:     127.0.0.1:33718 - "GET /products HTTP/1.1" 307 Temporary Redirect
 INFO:     127.0.0.1:33732 - "GET /products/ HTTP/1.1" 200 OK
 INFO:     127.0.0.1:33718 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33682 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33682 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33682 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33682 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33682 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43404 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33230 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33230 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34152 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33800 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33804 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33804 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34150 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33804 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33804 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33804 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50454 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50454 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60698 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:60698 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:60698 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60704 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48078 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48082 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48082 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:48082 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:48082 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48078 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48098 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48098 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48098 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:48098 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:48098 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59734 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59750 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59750 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59750 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59750 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59750 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59766 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59512 - "OPTIONS /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59526 - "POST /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55538 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55538 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41584 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41584 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41584 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41590 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40258 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40264 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53460 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53460 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53460 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53462 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37308 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:37308 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:37308 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37316 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53690 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53690 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53690 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53690 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53690 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53704 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53704 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37442 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37446 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58238 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58238 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44060 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44060 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44060 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44068 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55928 - "OPTIONS /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55940 - "POST /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39538 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39550 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33480 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33480 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33496 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33480 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33480 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33496 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33496 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33496 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33480 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33496 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38808 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38808 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38808 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:38808 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:38808 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38818 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57730 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57742 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59552 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59552 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59552 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59552 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59552 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59568 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59568 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59568 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59552 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59568 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58470 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58470 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58470 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58486 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51816 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51816 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51816 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37526 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37526 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37526 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37534 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37534 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37526 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45618 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45624 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45618 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45618 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45618 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45624 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45624 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45618 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45624 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45618 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46462 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:46462 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:46462 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46466 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45294 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45308 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45308 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45308 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45308 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45294 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46948 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46960 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35846 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35846 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35846 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35854 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53698 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53708 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53708 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53708 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53708 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53698 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57604 - "GET /products/15 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57604 - "GET /products/15 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53226 - "OPTIONS /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53238 - "POST /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43776 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43782 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43782 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:43782 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:43782 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43794 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44918 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44918 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44918 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44934 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44934 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44934 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44918 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:44918 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40406 - "OPTIONS /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40408 - "POST /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40408 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:40408 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40408 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:40408 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33554 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33566 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33566 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33566 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33566 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33554 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45506 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45514 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45514 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45514 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45514 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45506 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45506 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45506 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58796 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:58796 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:58796 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58798 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53062 - "OPTIONS /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53068 - "POST /orders/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60542 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60554 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54822 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54822 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54822 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54832 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38650 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38652 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38652 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:38652 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:38652 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38650 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41394 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41406 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41406 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41406 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41406 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41406 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41394 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41406 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41394 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41394 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46996 - "OPTIONS /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46998 - "POST /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46998 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:46998 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46998 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:46998 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42826 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42826 - "GET /categories/ HTTP/1.1" 200 OK
