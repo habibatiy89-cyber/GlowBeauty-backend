@@ -1,0 +1,53 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/home/habiba/development/code/phase5/GlowBeauty/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [213783] using StatReload
+INFO:     Started server process [213797]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:36036 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36036 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43410 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43410 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43412 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:43412 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:46478 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46478 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33776 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33776 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33776 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33776 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55754 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55770 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41972 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41972 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:41972 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41972 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59946 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59960 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59946 - "GET /categories HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59960 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59946 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59962 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59960 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59972 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56782 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56782 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56790 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56790 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53870 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53870 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53870 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53878 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50682 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50696 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45100 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45100 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45100 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45114 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45100 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45100 - "GET /categories/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33718 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33718 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:33732 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33718 - "GET /products/ HTTP/1.1" 200 OK
